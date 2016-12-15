@@ -1,14 +1,18 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rogue Bots", "Assembly-CSharp.csproj", "{7ED51744-31DB-0175-AF5C-0C08232A5FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{7ED51744-31DB-0175-AF5C-0C08232A5FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED51744-31DB-0175-AF5C-0C08232A5FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED51744-31DB-0175-AF5C-0C08232A5FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED51744-31DB-0175-AF5C-0C08232A5FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
