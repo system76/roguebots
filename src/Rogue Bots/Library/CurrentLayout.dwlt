@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 106
+  controlID: 48
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,12 +66,12 @@ MonoBehaviour:
     height: 978
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 15}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 107
+  controlID: 49
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 108
+  controlID: 50
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -358,19 +358,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Models/Characters
+    - Assets/Models/Props
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/Characters
+  - Assets/Models/Props
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/benjamin/Projects/RogueBots/roguebots/src/Rogue Bots
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 94240000
-    m_LastClickedID: 9364
-    m_ExpandedIDs: 000000004c240000942400002c25000060250000882500000a26000000ca9a3bffffff7f
+    m_SelectedIDs: 28280000
+    m_LastClickedID: 10280
+    m_ExpandedIDs: 0000000090270000c6270000282800003c2800006028000066280000d428000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -399,7 +399,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c240000942400002c25000060250000882500000a260000
+    m_ExpandedIDs: 0000000090270000c6270000282800003c2800006028000066280000d4280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -425,8 +425,8 @@ MonoBehaviour:
     m_SearchString: 
     m_ColumnWidths: []
   m_ListAreaState:
-    m_SelectedInstanceIDs: f0e6ffff
-    m_LastClickedInstanceID: -6416
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: b62400002224000030240000b8240000e8240000
     m_RenameOverlay:
@@ -516,9 +516,9 @@ MonoBehaviour:
     height: 571
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f0e6ffff
-    m_LastClickedID: -6416
-    m_ExpandedIDs: 4ce1ffff72e1ffff7ee1ffff92e1ffff94e1fffffaf2ffff00000000
+    m_SelectedIDs: 50270000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 54d5ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -580,9 +580,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -30.085938, y: 0.14648438, z: 1.25}
+    m_Target: {x: -20.505873, y: 15.5993395, z: 51.210938}
     speed: 2
-    m_Value: {x: -30.085938, y: 0.14648438, z: 1.25}
+    m_Value: {x: -20.505873, y: 15.5993395, z: 51.210938}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -601,17 +601,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     zGrid:
-      m_Target: 0
+      m_Target: 1
       speed: 2
-      m_Value: 0
+      m_Value: 1
   m_Rotation:
-    m_Target: {x: 0.0016636449, y: 0.99801403, z: -0.029949388, w: 0.055446748}
+    m_Target: {x: 0, y: 1, z: 0, w: 0}
     speed: 2
-    m_Value: {x: 0.0016636399, y: 0.99801105, z: -0.029949298, w: 0.055446584}
+    m_Value: {x: 0, y: 1, z: 0, w: 0}
   m_Size:
-    m_Target: 19.87966
+    m_Target: 36.45927
     speed: 2
-    m_Value: 19.87966
+    m_Value: 36.45927
   m_Ortho:
     m_Target: 1
     speed: 2
