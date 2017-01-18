@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e55407a1d51754021b9cf71ca62dd9e2
+timeCreated: 1483196456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: HangerBay
+    100006: LabHall
+    100008: Lamp
+    100010: OfficeArea
+    100012: StoreFrontFloor
+    100014: Bot Conveyor
+    100016: Creative underground_SafeHouse
+    100018: Lab
+    100020: Storage
+    100022: Wall
+    100024: Wall.001
+    100026: Wall.002
+    100028: Wall.003
+    100030: Wall.004
+    100032: Wall.005
+    100034: Wall.006
+    100036: Wall.007
+    100038: Wall.008
+    100040: Wall.009
+    100042: Wall.010
+    100044: Wall.011
+    100046: Wall.012
+    400000: Camera
+    400002: //RootNode
+    400004: HangerBay
+    400006: LabHall
+    400008: Lamp
+    400010: OfficeArea
+    400012: StoreFrontFloor
+    400014: Bot Conveyor
+    400016: Creative underground_SafeHouse
+    400018: Lab
+    400020: Storage
+    400022: Wall
+    400024: Wall.001
+    400026: Wall.002
+    400028: Wall.003
+    400030: Wall.004
+    400032: Wall.005
+    400034: Wall.006
+    400036: Wall.007
+    400038: Wall.008
+    400040: Wall.009
+    400042: Wall.010
+    400044: Wall.011
+    400046: Wall.012
+    2300000: HangerBay
+    2300002: LabHall
+    2300004: OfficeArea
+    2300006: StoreFrontFloor
+    2300008: Bot Conveyor
+    2300010: Creative underground_SafeHouse
+    2300012: Lab
+    2300014: Storage
+    2300016: Wall
+    2300018: Wall.001
+    2300020: Wall.002
+    2300022: Wall.003
+    2300024: Wall.004
+    2300026: Wall.005
+    2300028: Wall.006
+    2300030: Wall.007
+    2300032: Wall.008
+    2300034: Wall.009
+    2300036: Wall.010
+    2300038: Wall.011
+    2300040: Wall.012
+    3300000: HangerBay
+    3300002: LabHall
+    3300004: OfficeArea
+    3300006: StoreFrontFloor
+    3300008: Bot Conveyor
+    3300010: Creative underground_SafeHouse
+    3300012: Lab
+    3300014: Storage
+    3300016: Wall
+    3300018: Wall.001
+    3300020: Wall.002
+    3300022: Wall.003
+    3300024: Wall.004
+    3300026: Wall.005
+    3300028: Wall.006
+    3300030: Wall.007
+    3300032: Wall.008
+    3300034: Wall.009
+    3300036: Wall.010
+    3300038: Wall.011
+    3300040: Wall.012
+    4300000: OfficeArea
+    4300002: LabHall
+    4300004: StoreFrontFloor
+    4300006: HangerBay
+    4300008: Wall.012
+    4300010: Wall.011
+    4300012: Wall.010
+    4300014: Wall.009
+    4300016: Wall.008
+    4300018: Wall.007
+    4300020: Wall.006
+    4300022: Wall.005
+    4300024: Wall.004
+    4300026: Wall.003
+    4300028: Wall.002
+    4300030: Creative underground_SafeHouse
+    4300032: Storage
+    4300034: Bot Conveyor
+    4300036: Lab
+    4300038: Wall.001
+    4300040: Wall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

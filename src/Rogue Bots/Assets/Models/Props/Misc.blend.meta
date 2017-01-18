@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 5eac9eb18d4384c19896597efe4c428c
+timeCreated: 1483646378
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: amp
+    100002: Armature
+    100004: audio_monitor
+    100006: Bone
+    100008: Bone_001
+    100010: Bone_002
+    100012: Bone_003
+    100014: controlbox1
+    100016: gitar2
+    100018: Large_speaker
+    100020: Medium_speaker_low_range
+    100022: //RootNode
+    100024: Stage_lamp
+    100026: Sys76GP
+    100028: techno_dias
+    100030: Tecnho_key_layout1
+    100032: VR_Gear
+    400000: amp
+    400002: Armature
+    400004: audio_monitor
+    400006: Bone
+    400008: Bone_001
+    400010: Bone_002
+    400012: Bone_003
+    400014: controlbox1
+    400016: gitar2
+    400018: Large_speaker
+    400020: Medium_speaker_low_range
+    400022: //RootNode
+    400024: Stage_lamp
+    400026: Sys76GP
+    400028: techno_dias
+    400030: Tecnho_key_layout1
+    400032: VR_Gear
+    2300000: amp
+    2300002: audio_monitor
+    2300004: controlbox1
+    2300006: gitar2
+    2300008: Large_speaker
+    2300010: Medium_speaker_low_range
+    2300012: Stage_lamp
+    2300014: techno_dias
+    2300016: Tecnho_key_layout1
+    2300018: VR_Gear
+    3300000: amp
+    3300002: audio_monitor
+    3300004: controlbox1
+    3300006: gitar2
+    3300008: Large_speaker
+    3300010: Medium_speaker_low_range
+    3300012: Stage_lamp
+    3300014: techno_dias
+    3300016: Tecnho_key_layout1
+    3300018: VR_Gear
+    4300000: Sys76GP
+    4300002: VR_Gear
+    4300004: amp
+    4300006: audio_monitor
+    4300008: controlbox1
+    4300010: gitar2
+    4300012: Large_speaker
+    4300014: Medium_speaker_low_range
+    4300016: Stage_lamp
+    4300018: techno_dias
+    4300020: Tecnho_key_layout1
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Sys76GP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
